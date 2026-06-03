@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The Polignac comet under omega-stratification: every prime gap collapses to one constant, dual to Goldbach (Part XIV)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-03"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-polignac-comet"
+keywords:
+  - Polignac conjecture
+  - prime gaps
+  - Hardy-Littlewood singular series
+  - prime constellations
+  - conditional density
+  - experimental mathematics
+references:
+  - type: article
+    title: "Some problems of 'Partitio Numerorum'; III: On the expression of a number as a sum of primes"
+    authors:
+      - {family-names: Hardy, given-names: "G. H."}
+      - {family-names: Littlewood, given-names: "J. E."}
+    journal: "Acta Mathematica"
+    volume: 44
+    year: 1923
+    start: 1
+    end: 70
+  - type: software
+    title: "6N twin-prime conditional density (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+  - type: software
+    title: "6N Goldbach comet under omega-stratification (Part XIII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20530812
